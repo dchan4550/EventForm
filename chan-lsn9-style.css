@@ -1,0 +1,83 @@
+
+
+
+  body {
+	  background-color: Orange; 
+	  font-family: papyrus, serif, arial;
+  }
+  
+  ul {
+	  list-style-type: none;
+  }
+  
+  .white {
+	  color: white;
+  }
+  
+  .fctr {
+	  text-align: center;
+	  background-color: red;
+  }
+  
+  caption {
+	  color: blue;
+	  font-size: 20px;
+  }
+  
+  table {
+	  border: 1px solid black;
+  }
+
+  thead>tr>th {
+	  background-color: white;
+	  color: blue;
+  }
+  
+  tr, td {
+	  border: 2px solid black;
+  }
+  
+ 	
+  img {
+	  border: 2px solid black;
+  }
+  
+  nav ul {
+	  padding: 0px;
+	  font-size: 25px;
+  }
+  
+  Legend {
+	  background-color: white;
+	  color: black;
+	  font-family: sans-serif, serif, fantasy;
+  }
+  
+  Button {
+	  background-color: white;
+	  color: black;
+	  font-family: sans-serif, serif, fantasy;
+  }
+  
+  Label {
+	  font-family: sans-serif;
+  }
+
+  h2 {
+	  color: yellow;
+  }
+  
+  header {
+	  background-color: black;
+	  font-size: 25px;
+	  color: red;
+	  text-align: center;
+	  padding: 25px;
+	  margin-bottom: 25px;
+  }
+  
+	  
+  
+	  
+  
+  
